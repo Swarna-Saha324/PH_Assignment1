@@ -353,6 +353,31 @@ text-transform: capitalize;
     line-height: 20px;
     
 }
+#about{
+    padding: 80px;
+}
+#about .about-container {
+
+    margin: 0px;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
+}
+#about .about-container .section-heading p{
+    color: #757575;
+    margin: auto;
+    padding-top:16px;
+
+}
+#about .about-container .list .page-item
+{
+   padding-top: 16px;
+   color: #757575;
+   font-size: 16px;
+
+}
+
+
 
 
 
