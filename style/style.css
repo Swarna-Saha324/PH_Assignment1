@@ -207,9 +207,10 @@ text-transform: capitalize;
 .features-grid {
  
     display: flex;
-    justify-content: space-between;
+    margin: auto;
+    justify-content: space-around;
     padding-top: 30px;
-    padding-left: 150px;
+    padding-left: 80px;
     padding-right: 150px;
     margin-left: 100px; 
     box-shadow: 0 6px 50px 0 #00000011;
@@ -283,28 +284,7 @@ text-transform: capitalize;
 }
 
 
-/* .features-grid .feature-card img {
-  
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0 auto 25px;
-} */
 
-/* .icon {
-  font-size: 24px;
-  color: white;
-}
-
-.feature-card h3 {
-  color: var(--text-dark);
-  font-size: 1.4rem;
-  margin-bottom: 15px;
-  font-weight: 700;
-}*/
 
 .feature-card p {
   
@@ -376,6 +356,7 @@ text-transform: capitalize;
    font-size: 16px;
 
 }
+
 .footer {
     background: linear-gradient(180deg, #061726, #020b16);
     color: #bfc9d4;
