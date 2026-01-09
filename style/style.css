@@ -201,6 +201,7 @@ text-transform: capitalize;
     font-size: 14px;
    line-height: 20px;
    font-variant: normal;
+   color: #757575;
 
 }
 .features-grid {
@@ -311,6 +312,46 @@ text-transform: capitalize;
     color: #757575;
     line-height: 28px;
 
+}
+.smaller-div{
+    padding: 120px;
+    display: flex;
+    gap: 60px;
+}
+.items  {
+    margin: auto;
+}
+.items h6{
+    color: #30B868;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: normal;
+
+}
+.items h1{
+    padding-top: 16px;
+    text-transform: capitalize;
+}
+.items p {
+    padding-top: 16px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 20px;
+   color: #757575;
+}
+.items ul{
+    padding-top: 40px;
+    text-align: left;
+    padding-left: 0px;
+}
+.items ul li{
+    padding-bottom: 16px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    font-size: 16px;
+    line-height: 20px;
+    
 }
 
 
